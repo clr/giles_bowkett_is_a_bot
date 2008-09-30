@@ -1,1 +1,5 @@
-You heard it here first, folks.
+You heard it here first, folks.  See the blog post for more info:
+http://dialogues.port49.com/2008/9/30/giles-bowkett-is-a-bot
+
+To run the code, run:
+<pre><code>ruby omg.rb</code></pre>
